@@ -1,5 +1,5 @@
 <?php
-define('DATABASE',array("localhost","db_user","db_passwd","db_name"));
+define('DATABASE',array("185.27.134.34","epiz_33676194","VnRyvT5pKl20uPJ","epiz_33676194_68"));
 //数据库配置  服务器/数据库用户名/数据库密码/数据库名称
 
 define("URL","http://14141004.xyz/");
