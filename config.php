@@ -22,7 +22,7 @@ define('EMAIL_SET',array(
   ));
 //邮箱配置
 
-define('IF_SET',false);
+define('IF_SET',true);
 //用于判断是否手动修改配置，请再修改过后将此处的false改为true 如 替换为define('IF_SET',true);
 
 /***********************************
