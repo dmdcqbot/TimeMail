@@ -2,7 +2,7 @@
 define('DATABASE',array("localhost","db_user","db_passwd","db_name"));
 //数据库配置  服务器/数据库用户名/数据库密码/数据库名称
 
-define("URL","http://example.com/");
+define("URL","http://14141004.xyz/");
 //网址 记住必须以/结尾
 
 define("TITLE","TimeMail - 给未来写封信");
@@ -12,11 +12,11 @@ define("DEBUG", false);
 
 define('EMAIL_SET',array(
   'key' => 'rand', //随机值
-  'smtp' => 'smtp.exmail.qq.com',   //SMTP 用户名  即邮箱的用户名
-  'email' => 'service@example.com', //邮箱账户
-  'passwd' => 'PASSWD', //SMTP 密码  部分邮箱是授权码(例如163邮箱) 
+  'smtp' => 'smtp.zoho.com.cn',   //SMTP 用户名  即邮箱的用户名
+  'email' => 'dmdcqbot@skress.xyz', //邮箱账户
+  'passwd' => 'Zoho@29732.', //SMTP 密码  部分邮箱是授权码(例如163邮箱) 
   'Secure' => 'ssl',
-   'setFrom' => 'service@example.com', //发件人
+   'setFrom' => 'dmdcqbot@skress.xyz', //发件人
   'port' => '465', //服务器端口 25 或者465 具体要看邮箱服务器支持 
   'name' => 'TimeMail - 时光邮局'  //发信名称
   ));
