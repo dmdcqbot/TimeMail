@@ -2,7 +2,7 @@
 define('DATABASE',array("185.27.134.34","epiz_33676194","VnRyvT5pKl20uPJ","epiz_33676194_68"));
 //数据库配置  服务器/数据库用户名/数据库密码/数据库名称
 
-define("URL","http://14141004.xyz/");
+define("URL","http://skress.great-site.net/");
 //网址 记住必须以/结尾
 
 define("TITLE","TimeMail - 给未来写封信");
